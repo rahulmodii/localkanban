@@ -1,0 +1,24 @@
+[
+  {
+    "id": "3433fa83-ade7-4f46-8bc7-3cb0d6079306",
+    "boardName": "Not Started",
+    "card": [
+      {
+        "id": "baa79f74-484b-4511-a957-78dd4b3e703d",
+        "title": "sssasas",
+        "tags": [],
+        "task": []
+      }
+    ]
+  },
+  {
+    "id": "ea83aefc-32e3-4941-b189-8bab3539b769",
+    "boardName": "Inprogress",
+    "card": []
+  },
+  {
+    "id": "c30cb9ad-9a20-4f16-9c97-3a32228368fa",
+    "boardName": "Completed",
+    "card": []
+  }
+]
